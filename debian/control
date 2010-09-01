@@ -1,0 +1,15 @@
+Source: opensrf
+Section: admin
+Priority: optional
+Maintainer: Thomas Goirand <zigo@debian.org>
+Build-Depends: debhelper (>= 7.0.50~), autoconf, automake, libtool, apache2-prefork-dev, libexpat1-dev, libgcrypt11-dev, libgdbm-dev, libperl-dev, libreadline5-dev, libxml2-dev, libxslt1-dev, pkg-config, python-dev, python-setuptools, libcache-memcached-perl, libclass-dbi-abstractsearch-perl, libclass-dbi-sqlite-perl, libdatetime-format-builder-perl, libdatetime-format-mail-perl, libdatetime-perl, libdatetime-timezone-perl, liberror-perl, libfile-find-rule-perl, libfreezethaw-perl, liblog-log4perl-perl, libmodule-build-perl, libnet-jabber-perl, librpc-xml-perl, libtemplate-perl, libtest-pod-perl, libtie-ixhash-perl, libuniversal-require-perl, libunix-syslog-perl, libwww-perl, libxml-libxml-perl, libxml-libxslt-perl, libxml-simple-perl
+Standards-Version: 3.9.1
+Homepage: http://www.open-ils.org/
+
+Package: opensrf
+Architecture: any
+Depends: apache2-mpm-prefork, ejabberd, less, libapache2-mod-perl2, libcache-memcached-perl, libclass-dbi-abstractsearch-perl, libclass-dbi-sqlite-perl, libdatetime-format-builder-perl, libdatetime-format-mail-perl, libdatetime-perl, libdatetime-timezone-perl, liberror-perl, libfile-find-rule-perl, libfreezethaw-perl, liblog-log4perl-perl, libmodule-build-perl, libnet-jabber-perl, librpc-xml-perl, libtemplate-perl, libtest-pod-perl, libtie-ixhash-perl, libuniversal-require-perl, libunix-syslog-perl, libwww-perl, libxml-libxml-perl, libxml-libxslt-perl, libxml-simple-perl, memcached, psmisc, python-libxml2
+Description: Services on which Evergreen ILS runs on
+ The long description in multiple lines goes here, and it has to be
+ longer than 3 lines, wrapped in 80 cols. Thanks for writing it.
+ And be as descriptive as possible...

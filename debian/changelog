@@ -1,0 +1,5 @@
+opensrs (1.2.2-1) experimental; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 01 Sep 2010 04:22:30 +0800
