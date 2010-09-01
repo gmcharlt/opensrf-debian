@@ -3,7 +3,7 @@ Wed, 01 Sep 2010 04:22:30 +0800
 
 It was downloaded from:
 
-	http://www.open-ils.org/downloads.php
+	http://www.evergreen-ils.org/downloads.php
 
 Upstream authors:
 
@@ -31,7 +31,13 @@ On Debian systems, the complete text of the GNU Lesser General Public
 License (LGPL) may be found in /usr/share/common-licenses/LGPL.
 
 Files: *
-Copyright: (c) FirstName LastName <email@example.com>
-License: [Please Fill]
+Copyright: 2005-2007, Georgia Public Library Service
+           2007,      Ed Summers <ehs@pobox.com>
+           2007-2008, Scott McKellar <mck9@swbell.net>
+           2007-2010, Dan Scott <dan@coffeecode.net>
+           2007-2010, Equinox Software, Inc.
+	   2007-2010, Laurentian University
+           2008,      Kevin Beswick <kevinbeswick00@gmail.com>
+License: GPL-2+
 
 	Copyright notice (or full license) goes here.
